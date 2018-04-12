@@ -1,0 +1,2 @@
+# BabylonJS
+This project is a test for shaders with BabylonJS, based on this [tutorial](https://gamedevelopment.tutsplus.com/tutorials/building-shaders-with-babylonjs-and-webgl-theory-and-examples--cms-24146) by [David Catuhe](https://www.eternalcoding.com/?page_id=2538).
